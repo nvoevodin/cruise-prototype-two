@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cruise-prototype-two/static/css/main.2b0b8d74.chunk.css",
+    "main.css": "/cruise-prototype-two/static/css/main.ddd8dcc0.chunk.css",
     "main.js": "/cruise-prototype-two/static/js/main.18eab0bc.chunk.js",
     "main.js.map": "/cruise-prototype-two/static/js/main.18eab0bc.chunk.js.map",
     "runtime-main.js": "/cruise-prototype-two/static/js/runtime-main.056afe28.js",
@@ -11,16 +11,16 @@
     "static/js/3.5fceee43.chunk.js": "/cruise-prototype-two/static/js/3.5fceee43.chunk.js",
     "static/js/3.5fceee43.chunk.js.map": "/cruise-prototype-two/static/js/3.5fceee43.chunk.js.map",
     "index.html": "/cruise-prototype-two/index.html",
-    "precache-manifest.2f3fff6ac8e5a1aa3c8fa4206edef7f4.js": "/cruise-prototype-two/precache-manifest.2f3fff6ac8e5a1aa3c8fa4206edef7f4.js",
+    "precache-manifest.34cfece8d725259e6911d84e6d021a58.js": "/cruise-prototype-two/precache-manifest.34cfece8d725259e6911d84e6d021a58.js",
     "service-worker.js": "/cruise-prototype-two/service-worker.js",
     "static/css/2.daed29bd.chunk.css.map": "/cruise-prototype-two/static/css/2.daed29bd.chunk.css.map",
-    "static/css/main.2b0b8d74.chunk.css.map": "/cruise-prototype-two/static/css/main.2b0b8d74.chunk.css.map"
+    "static/css/main.ddd8dcc0.chunk.css.map": "/cruise-prototype-two/static/css/main.ddd8dcc0.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.056afe28.js",
     "static/css/2.daed29bd.chunk.css",
     "static/js/2.461a837a.chunk.js",
-    "static/css/main.2b0b8d74.chunk.css",
+    "static/css/main.ddd8dcc0.chunk.css",
     "static/js/main.18eab0bc.chunk.js"
   ]
 }

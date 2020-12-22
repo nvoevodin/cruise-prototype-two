@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cruise-prototype-two/precache-manifest.2f3fff6ac8e5a1aa3c8fa4206edef7f4.js"
+  "/cruise-prototype-two/precache-manifest.34cfece8d725259e6911d84e6d021a58.js"
 );
 
 self.addEventListener('message', (event) => {
